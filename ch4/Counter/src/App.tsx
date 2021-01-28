@@ -1,10 +1,10 @@
 import React from 'react';
-import Styled from 'styled-components/native';
+import styled from 'styled-components/native';
 import Counter from './Screens/Counter';
 
-const Container = Styled.View`
+const Container = styled.View`
   flex: 1;
-  background-color: #EEE;
+  background-color: #eee;
 `;
 
 const App = () => {

@@ -18,7 +18,7 @@ const TitleLabel = Styled.Text`
 const CountContainer = Styled.View`
     flex: 2;
     justify-content: center;
-    align-itmes: center;
+    align-items: center;
 `;
 const CountLabel = Styled.Text`
     font-size: 24px;
