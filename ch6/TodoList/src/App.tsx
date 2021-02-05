@@ -24,7 +24,7 @@ const ScrollView = Styled.ScrollView`
 `;
 
 const Body = Styled.View`
-background-color: ${Colors.white};
+  background-color: ${Colors.white};
 `;
 
 const SectionContainer = Styled.View`
