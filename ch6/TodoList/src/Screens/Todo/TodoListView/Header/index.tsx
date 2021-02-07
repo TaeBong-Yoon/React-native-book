@@ -5,11 +5,13 @@ const Container = Styled.View`
     height: 40px;
     justify-content: center;
     align-items: center;
+    margin-top: 40px;
 `;
 
-const TitleLabel = Styled.View`
+const TitleLabel = Styled.Text`
     font-size : 24px;
     font-weight: bold;
+    color: red;
 `;
 
 interface Props {}
@@ -17,7 +19,7 @@ interface Props {}
 const Header = ({}: Props) => {
   return (
     <Container>
-      <TitleLabel>Todo List App</TitleLabel>
+      <TitleLabel>HEAD!!!</TitleLabel>
     </Container>
   );
 };

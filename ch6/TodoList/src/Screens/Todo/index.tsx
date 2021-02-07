@@ -5,6 +5,7 @@ import TodoListView from './TodoListView';
 import AddTodo from './AddTodo';
 
 const Container = Styled.View`
+    flex-direction: column;
     flex: 1;
 `;
 

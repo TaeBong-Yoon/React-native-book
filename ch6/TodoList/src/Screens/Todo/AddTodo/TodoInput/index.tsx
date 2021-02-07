@@ -19,7 +19,7 @@ interface Props {
 
 const TodoInput = ({hideTodoInput}: Props) => {
   return (
-    <Container begavior="padding">
+    <Container behavior="padding">
       <Background onPress={hideTodoInput} />
       <TextInput hideTodoInput={hideTodoInput} />
     </Container>

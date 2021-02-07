@@ -9,7 +9,7 @@ const Container = Styled.View`
     border-radius: 8px;
     align-items: center; 
 `;
-const Label = Styled.View`
+const Label = Styled.Text`
     flex: 1;
 `;
 const DeleteButton = Styled.TouchableOpacity``;

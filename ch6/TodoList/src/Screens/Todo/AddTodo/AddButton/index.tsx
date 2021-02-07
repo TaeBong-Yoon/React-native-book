@@ -9,6 +9,7 @@ const Container = Styled.View`
 `;
 const ButtonContainer = Styled.TouchableOpacity`
     box-shadow: 4px 4px 8px #999;
+    margin-bottom: 10px;
 `;
 const Icon = Styled.Image``;
 
