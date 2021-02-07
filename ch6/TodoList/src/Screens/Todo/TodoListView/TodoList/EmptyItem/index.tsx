@@ -3,8 +3,8 @@ import Styled from 'styled-components/native';
 
 const Container = Styled.View`
     flex: 1;
-    align-item: center;
-    jusify-content: center;
+    align-items: center;
+    justify-content: center;
 `;
 
 const Label = Styled.Text``;

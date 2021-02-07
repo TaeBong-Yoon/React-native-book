@@ -6,7 +6,7 @@
  * @flow strict-local
  */
 
-import React, {Fragment} from 'react';
+import React from 'react';
 import Styled from 'styled-components/native';
 
 import {TodoListContextProvider} from '~/Context/TodoListContext';

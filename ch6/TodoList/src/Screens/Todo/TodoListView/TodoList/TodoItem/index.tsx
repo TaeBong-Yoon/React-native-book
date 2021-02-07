@@ -1,7 +1,7 @@
 import React from 'react';
 import Styled from 'styled-components/native';
 
-const Container = Syled.View`
+const Container = Styled.View`
     flex-direction: row;
     background-color: #FFF;
     margin:4px 16px;
