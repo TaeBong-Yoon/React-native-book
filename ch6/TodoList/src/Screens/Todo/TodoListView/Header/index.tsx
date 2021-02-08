@@ -11,7 +11,7 @@ const Container = Styled.View`
 const TitleLabel = Styled.Text`
     font-size : 24px;
     font-weight: bold;
-    color: red;
+    color: #898;
 `;
 
 interface Props {}
@@ -19,7 +19,7 @@ interface Props {}
 const Header = ({}: Props) => {
   return (
     <Container>
-      <TitleLabel>HEAD!!!</TitleLabel>
+      <TitleLabel>Todo List App</TitleLabel>
     </Container>
   );
 };

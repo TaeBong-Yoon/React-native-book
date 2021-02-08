@@ -8,6 +8,7 @@
 
 import React from 'react';
 import Styled from 'styled-components/native';
+import {SafeAreaView} from 'react-native';
 
 import {TodoListContextProvider} from '~/Context/TodoListContext';
 
